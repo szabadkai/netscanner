@@ -1,4 +1,4 @@
-const { EventEmitter } = require('events');
+import { EventEmitter } from 'events';
 
 // Shared event bus so scanners, analyzers, and UI can communicate.
 class EventBus extends EventEmitter {
@@ -8,4 +8,6 @@ class EventBus extends EventEmitter {
   }
 }
 
-module.exports = new EventBus();
+const eventBus = new EventBus();
+
+export default eventBus;

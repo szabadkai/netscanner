@@ -1,7 +1,10 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const assetCache = new Map();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function getBasePath() {
   if (process.pkg) {
@@ -11,7 +14,7 @@ function getBasePath() {
   return process.cwd();
 }
 
-function resolveAssetPath(relativePath) {
+export function resolveAssetPath(relativePath) {
   const basePath = getBasePath();
   const resolvedPath = path.join(basePath, relativePath);
 
@@ -23,7 +26,7 @@ function resolveAssetPath(relativePath) {
   return path.join(__dirname, '..', '..', relativePath);
 }
 
-function loadJson(relativePath) {
+export function loadJson(relativePath) {
   const cacheKey = `json:${relativePath}`;
   if (assetCache.has(cacheKey)) {
     return assetCache.get(cacheKey);
@@ -35,8 +38,3 @@ function loadJson(relativePath) {
   assetCache.set(cacheKey, parsed);
   return parsed;
 }
-
-module.exports = {
-  resolveAssetPath,
-  loadJson
-};

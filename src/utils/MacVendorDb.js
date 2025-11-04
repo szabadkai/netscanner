@@ -1,5 +1,5 @@
-const { macToPrefix } = require('./NetworkUtils');
-const { loadJson } = require('./AssetLoader');
+import { macToPrefix } from './NetworkUtils.js';
+import { loadJson } from './AssetLoader.js';
 
 let vendorMap;
 
@@ -9,7 +9,7 @@ function ensureLoaded() {
   }
 }
 
-function findVendor(macAddress) {
+export function findVendor(macAddress) {
   if (!macAddress) {
     return null;
   }
@@ -19,7 +19,3 @@ function findVendor(macAddress) {
   const prefix = macToPrefix(macAddress);
   return vendorMap[prefix] || null;
 }
-
-module.exports = {
-  findVendor
-};

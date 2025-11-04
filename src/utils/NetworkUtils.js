@@ -1,7 +1,7 @@
-const os = require('os');
-const net = require('net');
+import os from 'os';
+import net from 'net';
 
-function getLocalInterfaces() {
+export function getLocalInterfaces() {
   const interfaces = os.networkInterfaces();
   const results = [];
 
@@ -25,7 +25,7 @@ function getLocalInterfaces() {
   return results;
 }
 
-function macToPrefix(macAddress = '') {
+export function macToPrefix(macAddress = '') {
   return macAddress
     .toUpperCase()
     .split(':')
@@ -33,12 +33,6 @@ function macToPrefix(macAddress = '') {
     .join(':');
 }
 
-function isValidIp(ip) {
+export function isValidIp(ip) {
   return net.isIP(ip) !== 0;
 }
-
-module.exports = {
-  getLocalInterfaces,
-  macToPrefix,
-  isValidIp
-};

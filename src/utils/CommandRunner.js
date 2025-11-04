@@ -1,6 +1,6 @@
-const { spawn } = require('child_process');
+import { spawn } from 'child_process';
 
-class CommandRunner {
+export class CommandRunner {
   /**
    * Execute a system command and capture stdout/stderr.
    * @param {string} command
@@ -52,4 +52,4 @@ class CommandRunner {
   }
 }
 
-module.exports = CommandRunner;
+export default CommandRunner;

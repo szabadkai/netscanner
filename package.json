@@ -2,6 +2,7 @@
   "name": "netscanner",
   "version": "1.0.0",
   "description": "Modern animated network scanner CLI with real-time updates.",
+  "type": "module",
   "bin": "src/cli.js",
   "pkg": {
     "scripts": [
