@@ -1,0 +1,1002 @@
+[
+  {
+    "ip": "255.255.255.255",
+    "mac": "ff:ff:ff:ff:ff:ff",
+    "hostname": "broadcasthost",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.485Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.1",
+    "mac": "84:d8:1b:49:f4:74",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.464Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.103",
+    "mac": "e4:f0:42:97:66:8",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.466Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.106",
+    "mac": "4c:b9:ea:72:a2:a9",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.468Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.118",
+    "mac": "d8:aa:59:32:86:2d",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.469Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.119",
+    "mac": "dc:da:c:28:bb:b4",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.472Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.126",
+    "mac": "3c:38:f4:20:e2:56",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.473Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.132",
+    "mac": "48:d6:d5:74:d0:8d",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.473Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.141",
+    "mac": "98:fa:9b:4f:ac:85",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.474Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.147",
+    "mac": "ca:be:12:f7:93:aa",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.474Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.153",
+    "mac": "c4:4f:33:ad:59:85",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.475Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.155",
+    "mac": "94:24:b8:e:bb:90",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.475Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.163",
+    "mac": "c0:39:37:b3:aa:64",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.476Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.164",
+    "mac": "36:5d:f3:b8:1c:ac",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.476Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.167",
+    "mac": "14:35:b7:69:be:20",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.477Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.178",
+    "mac": "16:0:51:f:f1:b3",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.478Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.199",
+    "mac": "a0:29:42:af:ab:cc",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.479Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.201",
+    "mac": "dc:68:eb:d:c9:5a",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.479Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.207",
+    "mac": "94:24:b8:e:ba:5f",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.480Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.215",
+    "mac": "0:a0:98:6d:9b:cf",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.481Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.232",
+    "mac": "f2:6e:fb:79:32:6a",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.481Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.241",
+    "mac": "32:8b:2:80:6e:1c",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.482Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.243",
+    "mac": "fe:4e:ba:c3:da:97",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.483Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "224.0.0.251",
+    "mac": "1:0:5e:0:0:fb",
+    "hostname": "mdns.mcast.net",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.484Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "239.255.255.250",
+    "mac": "1:0:5e:7f:ff:fa",
+    "hostname": "?",
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:20:34.485Z",
+    "sources": {},
+    "services": [],
+    "extra": {},
+    "source": "arp"
+  },
+  {
+    "ip": "192.168.1.1",
+    "mac": "84:D8:1B:49:F4:74",
+    "hostname": null,
+    "os": null,
+    "manufacturer": "TP-Link Technologies",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.816Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 53,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "domain",
+        "version": "Unbound",
+        "lastSeen": "2025-11-04T22:21:30.816Z"
+      },
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "http",
+        "version": "BusyBox http 1.19.4",
+        "lastSeen": "2025-11-04T22:21:30.816Z"
+      },
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssl/http",
+        "version": "BusyBox http 1.19.4",
+        "lastSeen": "2025-11-04T22:21:30.816Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.1\nHost is up (0.0092s latency).\nNot shown: 47 closed tcp ports (reset)\nPORT    STATE SERVICE  VERSION\n53/tcp  open  domain   Unbound\n80/tcp  open  http     BusyBox http 1.19.4\n443/tcp open  ssl/http BusyBox http 1.19.4\nMAC Address: 84:D8:1B:49:F4:74 (TP-Link Technologies)\nNo exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).\nTCP/IP fingerprint:\nOS:SCAN(V=7.95%E=4%D=11/4%OT=53%CT=21%CU=35947%PV=Y%DS=1%DC=D%G=Y%M=84D81B%\nOS:TM=690A7C6A%P=arm-apple-darwin24.2.0)SEQ(SP=105%GCD=1%ISR=109%TI=Z%CI=I%\nOS:II=I%TS=21)SEQ(SP=105%GCD=1%ISR=10A%TI=Z%CI=I%II=I%TS=21)SEQ(SP=107%GCD=\nOS:1%ISR=108%TI=Z%II=I%TS=22)SEQ(SP=FD%GCD=1%ISR=103%TI=Z%CI=I%TS=20)SEQ(SP\nOS:=FE%GCD=1%ISR=100%TI=Z%CI=I%TS=22)OPS(O1=M5B4ST11NWD%O2=M5B4ST11NWD%O3=M\nOS:5B4NNT11NWD%O4=M5B4ST11NWD%O5=M5B4ST11NWD%O6=M5B4ST11)WIN(W1=FFFF%W2=FFF\nOS:F%W3=FFFF%W4=FFFF%W5=FFFF%W6=FFFF)ECN(R=Y%DF=Y%T=35%W=FFFF%O=M5B4NNSNWD%\nOS:CC=Y%Q=)T1(R=Y%DF=Y%T=35%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R\nOS:=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F\nOS:=R%O=%RD=0%Q=)T7(R=N)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%\nOS:RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)\n\nNetwork Distance: 1 hop\nService Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel\n",
+        "services": [
+          {
+            "port": 53,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "domain",
+            "version": "Unbound",
+            "lastSeen": "2025-11-04T22:21:30.816Z"
+          },
+          {
+            "port": 80,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "http",
+            "version": "BusyBox http 1.19.4",
+            "lastSeen": "2025-11-04T22:21:30.816Z"
+          },
+          {
+            "port": 443,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssl/http",
+            "version": "BusyBox http 1.19.4",
+            "lastSeen": "2025-11-04T22:21:30.816Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.0092s latency).",
+        "networkDistance": "1 hop",
+        "serviceInfo": {
+          "os": "Linux",
+          "cpe": "cpe"
+        }
+      }
+    }
+  },
+  {
+    "ip": "192.168.1.103",
+    "mac": "E4:F0:42:97:66:08",
+    "hostname": null,
+    "os": "Google Home device",
+    "manufacturer": "Google",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.820Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 8008,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "http?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.820Z"
+      },
+      {
+        "port": 8443,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssl/https-alt?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.820Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.103\nHost is up (0.0045s latency).\nNot shown: 48 closed tcp ports (reset)\nPORT     STATE SERVICE        VERSION\n8008/tcp open  http?\n8443/tcp open  ssl/https-alt?\nMAC Address: E4:F0:42:97:66:08 (Google)\nDevice type: media device\nRunning: Google embedded\nOS details: Google Home device\nNetwork Distance: 1 hop\n",
+        "services": [
+          {
+            "port": 8008,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "http?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.820Z"
+          },
+          {
+            "port": 8443,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssl/https-alt?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.820Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.0045s latency).",
+        "deviceType": "media device",
+        "running": "Google embedded",
+        "osDetails": "Google Home device",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "media device",
+    "serviceOsHint": "Google embedded",
+    "osGuess": "Google Home device"
+  },
+  {
+    "ip": "192.168.1.106",
+    "mac": "4C:B9:EA:72:A2:A9",
+    "hostname": null,
+    "os": null,
+    "manufacturer": "iRobot",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.821Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.106\nHost is up (0.092s latency).\nAll 50 scanned ports on 192.168.1.106 are in ignored states.\nNot shown: 50 filtered tcp ports (no-response)\nMAC Address: 4C:B9:EA:72:A2:A9 (iRobot)\nToo many fingerprints match this host to give specific OS details\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.092s latency).",
+        "networkDistance": "1 hop"
+      }
+    }
+  },
+  {
+    "ip": "192.168.1.118",
+    "mac": "D8:AA:59:32:86:2D",
+    "hostname": null,
+    "os": "Android 9 - 10 (Linux 4.9 - 4.14)",
+    "manufacturer": "Tonly Technology",
+    "model": null,
+    "usage": "Mobile Device",
+    "lastSeen": "2025-11-04T22:21:30.822Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 8008,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "http?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.822Z"
+      },
+      {
+        "port": 8443,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssl/https-alt?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.822Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.118\nHost is up (0.0035s latency).\nNot shown: 48 closed tcp ports (reset)\nPORT     STATE SERVICE        VERSION\n8008/tcp open  http?\n8443/tcp open  ssl/https-alt?\nMAC Address: D8:AA:59:32:86:2D (Tonly Technology)\nDevice type: phone\nRunning: Google Android 10.X, Linux 4.X\nOS CPE: cpe:/o:google:android:10 cpe:/o:linux:linux_kernel:4\nOS details: Android 9 - 10 (Linux 4.9 - 4.14)\nNetwork Distance: 1 hop\n",
+        "services": [
+          {
+            "port": 8008,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "http?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.822Z"
+          },
+          {
+            "port": 8443,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssl/https-alt?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.822Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.0035s latency).",
+        "deviceType": "phone",
+        "running": "Google Android 10.X, Linux 4.X",
+        "osDetails": "Android 9 - 10 (Linux 4.9 - 4.14)",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "phone",
+    "serviceOsHint": "Google Android 10.X, Linux 4.X",
+    "osGuess": "Android 9 - 10 (Linux 4.9 - 4.14)"
+  },
+  {
+    "ip": "192.168.1.119",
+    "mac": "DC:DA:0C:28:BB:B4",
+    "hostname": null,
+    "os": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)",
+    "manufacturer": "Espressif",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.823Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.119\nHost is up (0.015s latency).\nAll 50 scanned ports on 192.168.1.119 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: DC:DA:0C:28:BB:B4 (Espressif)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nAggressive OS guesses: 2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)\nNo exact OS matches for host (test conditions non-ideal).\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.015s latency).",
+        "osGuess": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)",
+        "networkDistance": "1 hop"
+      }
+    },
+    "osGuess": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)"
+  },
+  {
+    "ip": "192.168.1.132",
+    "mac": "48:D6:D5:74:D0:8D",
+    "hostname": null,
+    "os": "Google Home device",
+    "manufacturer": "Google",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.824Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 8008,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "http?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.824Z"
+      },
+      {
+        "port": 8443,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssl/https-alt?",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.824Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.132\nHost is up (0.033s latency).\nNot shown: 48 closed tcp ports (reset)\nPORT     STATE SERVICE        VERSION\n8008/tcp open  http?\n8443/tcp open  ssl/https-alt?\nMAC Address: 48:D6:D5:74:D0:8D (Google)\nDevice type: media device\nRunning: Google embedded\nOS details: Google Home device\nNetwork Distance: 1 hop\n",
+        "services": [
+          {
+            "port": 8008,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "http?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.824Z"
+          },
+          {
+            "port": 8443,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssl/https-alt?",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.824Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.033s latency).",
+        "deviceType": "media device",
+        "running": "Google embedded",
+        "osDetails": "Google Home device",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "media device",
+    "serviceOsHint": "Google embedded",
+    "osGuess": "Google Home device"
+  },
+  {
+    "ip": "192.168.1.141",
+    "mac": "98:FA:9B:4F:AC:85",
+    "hostname": null,
+    "os": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)",
+    "manufacturer": "LCFC(HeFei",
+    "model": null,
+    "usage": "Network Infrastructure",
+    "lastSeen": "2025-11-04T22:21:30.825Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 80,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "http",
+        "version": "nginx",
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      },
+      {
+        "port": 111,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "rpcbind",
+        "version": null,
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      },
+      {
+        "port": 139,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "netbios-ssn",
+        "version": "Samba smbd 4",
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      },
+      {
+        "port": 443,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssl/http",
+        "version": "nginx",
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      },
+      {
+        "port": 445,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "netbios-ssn",
+        "version": "Samba smbd 4",
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      },
+      {
+        "port": 5900,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "vnc?",
+        "version": null,
+        "scripts": [
+          "fingerprint-strings:",
+          "DNSVersionBindReqTCP, GenericLines, GetRequest, Help, SSLSessionReq:",
+          "REDQ"
+        ],
+        "lastSeen": "2025-11-04T22:21:30.825Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.141\nHost is up (0.0036s latency).\nNot shown: 44 closed tcp ports (reset)\nPORT     STATE SERVICE     VERSION\n80/tcp   open  http        nginx\n111/tcp  open  rpcbind\n139/tcp  open  netbios-ssn Samba smbd 4\n443/tcp  open  ssl/http    nginx\n445/tcp  open  netbios-ssn Samba smbd 4\n5900/tcp open  vnc?\n| fingerprint-strings: \n|   DNSVersionBindReqTCP, GenericLines, GetRequest, Help, SSLSessionReq: \n|_    REDQ\n1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :\nSF-Port5900-TCP:V=7.95%I=3%D=11/4%Time=690A7C4B%P=arm-apple-darwin24.2.0%r\nSF:(GetRequest,C2,\"REDQ\\x02\\0\\0\\0\\x02\\0\\0\\0\\xb2\\0\\0\\0\\x02\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\")%r(GenericLines,\nSF:C2,\"REDQ\\x02\\0\\0\\0\\x02\\0\\0\\0\\xb2\\0\\0\\0\\x02\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\")%r(DNSVersionBindReqTCP,C2,\"\nSF:REDQ\\x02\\0\\0\\0\\x02\\0\\0\\0\\xb2\\0\\0\\0\\x02\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\")%r(Help,C2,\"REDQ\\x02\\0\\0\\0\\x02\\0\nSF:\\0\\0\\xb2\\0\\0\\0\\x02\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\")%r(SSLSessionReq,C2,\"REDQ\\x02\\0\\0\\0\\x02\\0\\0\\0\\xb2\\0\\\nSF:0\\0\\x02\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\\nSF:0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\\0\nSF:\\0\\0\\0\");\nMAC Address: 98:FA:9B:4F:AC:85 (LCFC(HeFei) Electronics Technology)\nDevice type: general purpose|router\nRunning: Linux 4.X|5.X, MikroTik RouterOS 7.X\nOS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3\nOS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)\nNetwork Distance: 1 hop\n",
+        "services": [
+          {
+            "port": 80,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "http",
+            "version": "nginx",
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          },
+          {
+            "port": 111,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "rpcbind",
+            "version": null,
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          },
+          {
+            "port": 139,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "netbios-ssn",
+            "version": "Samba smbd 4",
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          },
+          {
+            "port": 443,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssl/http",
+            "version": "nginx",
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          },
+          {
+            "port": 445,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "netbios-ssn",
+            "version": "Samba smbd 4",
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          },
+          {
+            "port": 5900,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "vnc?",
+            "version": null,
+            "scripts": [
+              "fingerprint-strings:",
+              "DNSVersionBindReqTCP, GenericLines, GetRequest, Help, SSLSessionReq:",
+              "REDQ"
+            ],
+            "lastSeen": "2025-11-04T22:21:30.825Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.0036s latency).",
+        "deviceType": "general purpose|router",
+        "running": "Linux 4.X|5.X, MikroTik RouterOS 7.X",
+        "osDetails": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "general purpose|router",
+    "serviceOsHint": "Linux 4.X|5.X, MikroTik RouterOS 7.X",
+    "osGuess": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)"
+  },
+  {
+    "ip": "192.168.1.153",
+    "mac": "C4:4F:33:AD:59:85",
+    "hostname": null,
+    "os": "Gosund EP2 smart plug (lwIP 1.4.1 - 2.0.3), lwIP 1.4.1 - 2.0.3",
+    "manufacturer": "Espressif",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.826Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.153\nHost is up (0.022s latency).\nAll 50 scanned ports on 192.168.1.153 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: C4:4F:33:AD:59:85 (Espressif)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nDevice type: specialized\nRunning: Gosund embedded, lwIP\nOS CPE: cpe:/a:lwip_project:lwip\nOS details: Gosund EP2 smart plug (lwIP 1.4.1 - 2.0.3), lwIP 1.4.1 - 2.0.3\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.022s latency).",
+        "deviceType": "specialized",
+        "running": "Gosund embedded, lwIP",
+        "osDetails": "Gosund EP2 smart plug (lwIP 1.4.1 - 2.0.3), lwIP 1.4.1 - 2.0.3",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "specialized",
+    "serviceOsHint": "Gosund embedded, lwIP",
+    "osGuess": "Gosund EP2 smart plug (lwIP 1.4.1 - 2.0.3), lwIP 1.4.1 - 2.0.3"
+  },
+  {
+    "ip": "192.168.1.155",
+    "mac": "94:24:B8:0E:BB:90",
+    "hostname": null,
+    "os": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3",
+    "manufacturer": "Gree Electric Appliances, OF Zhuhai",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.828Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.155\nHost is up (0.040s latency).\nAll 50 scanned ports on 192.168.1.155 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: 94:24:B8:0E:BB:90 (Gree Electric Appliances, OF Zhuhai)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nDevice type: general purpose|specialized\nRunning: lwIP 1.4.X\nOS CPE: cpe:/a:lwip_project:lwip:1.4.0 cpe:/a:lwip_project:lwip\nOS details: lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.040s latency).",
+        "deviceType": "general purpose|specialized",
+        "running": "lwIP 1.4.X",
+        "osDetails": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "general purpose|specialized",
+    "serviceOsHint": "lwIP 1.4.X",
+    "osGuess": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3"
+  },
+  {
+    "ip": "192.168.1.163",
+    "mac": "C0:39:37:B3:AA:64",
+    "hostname": null,
+    "os": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)",
+    "manufacturer": "Gree Electric Appliances, OF Zhuhai",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.828Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.163\nHost is up (0.014s latency).\nAll 50 scanned ports on 192.168.1.163 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: C0:39:37:B3:AA:64 (Gree Electric Appliances, OF Zhuhai)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nAggressive OS guesses: 2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)\nNo exact OS matches for host (test conditions non-ideal).\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.014s latency).",
+        "osGuess": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)",
+        "networkDistance": "1 hop"
+      }
+    },
+    "osGuess": "2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)"
+  },
+  {
+    "ip": "192.168.1.178",
+    "mac": "16:00:51:0F:F1:B3",
+    "hostname": null,
+    "os": "Aruba IAP-93 WAP (96%), Aruba Instant WAP (96%), Linux 2.6.32 (96%), Linksys RV042 router (96%), Linux 2.6.18 - 2.6.24 (96%), Linux 2.6.35 (96%), Nokia N900 mobile phone (Linux 2.6.28) (96%), OpenWrt (Linux 2.6.32) (96%), Linux 5.11 (96%), SonicWALL Aventail EX-6000 VPN appliance (96%)",
+    "manufacturer": "Unknown",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.829Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.178\nHost is up (0.36s latency).\nAll 50 scanned ports on 192.168.1.178 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: 16:00:51:0F:F1:B3 (Unknown)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nAggressive OS guesses: Aruba IAP-93 WAP (96%), Aruba Instant WAP (96%), Linux 2.6.32 (96%), Linksys RV042 router (96%), Linux 2.6.18 - 2.6.24 (96%), Linux 2.6.35 (96%), Nokia N900 mobile phone (Linux 2.6.28) (96%), OpenWrt (Linux 2.6.32) (96%), Linux 5.11 (96%), SonicWALL Aventail EX-6000 VPN appliance (96%)\nNo exact OS matches for host (test conditions non-ideal).\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.36s latency).",
+        "osGuess": "Aruba IAP-93 WAP (96%), Aruba Instant WAP (96%), Linux 2.6.32 (96%), Linksys RV042 router (96%), Linux 2.6.18 - 2.6.24 (96%), Linux 2.6.35 (96%), Nokia N900 mobile phone (Linux 2.6.28) (96%), OpenWrt (Linux 2.6.32) (96%), Linux 5.11 (96%), SonicWALL Aventail EX-6000 VPN appliance (96%)",
+        "networkDistance": "1 hop"
+      }
+    },
+    "osGuess": "Aruba IAP-93 WAP (96%), Aruba Instant WAP (96%), Linux 2.6.32 (96%), Linksys RV042 router (96%), Linux 2.6.18 - 2.6.24 (96%), Linux 2.6.35 (96%), Nokia N900 mobile phone (Linux 2.6.28) (96%), OpenWrt (Linux 2.6.32) (96%), Linux 5.11 (96%), SonicWALL Aventail EX-6000 VPN appliance (96%)"
+  },
+  {
+    "ip": "192.168.1.199",
+    "mac": "A0:29:42:AF:AB:CC",
+    "hostname": null,
+    "os": null,
+    "manufacturer": "Intel Corporate",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.830Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.199\nHost is up (0.0043s latency).\nAll 50 scanned ports on 192.168.1.199 are in ignored states.\nNot shown: 50 filtered tcp ports (no-response)\nMAC Address: A0:29:42:AF:AB:CC (Intel Corporate)\nToo many fingerprints match this host to give specific OS details\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.0043s latency).",
+        "networkDistance": "1 hop"
+      }
+    }
+  },
+  {
+    "ip": "192.168.1.201",
+    "mac": "DC:68:EB:0D:C9:5A",
+    "hostname": null,
+    "os": null,
+    "manufacturer": "Nintendo",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.831Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.201\nHost is up (0.098s latency).\nAll 50 scanned ports on 192.168.1.201 are in ignored states.\nNot shown: 50 filtered tcp ports (no-response)\nMAC Address: DC:68:EB:0D:C9:5A (Nintendo)\nToo many fingerprints match this host to give specific OS details\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.098s latency).",
+        "networkDistance": "1 hop"
+      }
+    }
+  },
+  {
+    "ip": "192.168.1.207",
+    "mac": "94:24:B8:0E:BA:5F",
+    "hostname": null,
+    "os": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3",
+    "manufacturer": "Gree Electric Appliances, OF Zhuhai",
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.832Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.207\nHost is up (0.046s latency).\nAll 50 scanned ports on 192.168.1.207 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nMAC Address: 94:24:B8:0E:BA:5F (Gree Electric Appliances, OF Zhuhai)\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nDevice type: general purpose|specialized\nRunning: lwIP 1.4.X\nOS CPE: cpe:/a:lwip_project:lwip:1.4.0 cpe:/a:lwip_project:lwip\nOS details: lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3\nNetwork Distance: 1 hop\n",
+        "hostStatus": "Host is up (0.046s latency).",
+        "deviceType": "general purpose|specialized",
+        "running": "lwIP 1.4.X",
+        "osDetails": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3",
+        "networkDistance": "1 hop"
+      }
+    },
+    "deviceType": "general purpose|specialized",
+    "serviceOsHint": "lwIP 1.4.X",
+    "osGuess": "lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3"
+  },
+  {
+    "ip": "192.168.1.215",
+    "mac": "00:A0:98:6D:9B:CF",
+    "hostname": null,
+    "os": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)",
+    "manufacturer": "NetApp",
+    "model": null,
+    "usage": "Network Infrastructure",
+    "lastSeen": "2025-11-04T22:21:30.833Z",
+    "sources": {},
+    "services": [
+      {
+        "port": 22,
+        "protocol": "tcp",
+        "state": "open",
+        "service": "ssh",
+        "version": "OpenSSH 10.0p2 Debian 7 (protocol 2.0)",
+        "lastSeen": "2025-11-04T22:21:30.833Z"
+      }
+    ],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.215\nHost is up (0.0037s latency).\nNot shown: 49 closed tcp ports (reset)\nPORT   STATE SERVICE VERSION\n22/tcp open  ssh     OpenSSH 10.0p2 Debian 7 (protocol 2.0)\nMAC Address: 00:A0:98:6D:9B:CF (NetApp)\nDevice type: general purpose|router\nRunning: Linux 4.X|5.X, MikroTik RouterOS 7.X\nOS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3\nOS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)\nNetwork Distance: 1 hop\nService Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel\n",
+        "services": [
+          {
+            "port": 22,
+            "protocol": "tcp",
+            "state": "open",
+            "service": "ssh",
+            "version": "OpenSSH 10.0p2 Debian 7 (protocol 2.0)",
+            "lastSeen": "2025-11-04T22:21:30.833Z"
+          }
+        ],
+        "hostStatus": "Host is up (0.0037s latency).",
+        "deviceType": "general purpose|router",
+        "running": "Linux 4.X|5.X, MikroTik RouterOS 7.X",
+        "osDetails": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)",
+        "networkDistance": "1 hop",
+        "serviceInfo": {
+          "os": "Linux",
+          "cpe": "cpe"
+        }
+      }
+    },
+    "deviceType": "general purpose|router",
+    "serviceOsHint": "Linux 4.X|5.X, MikroTik RouterOS 7.X",
+    "osGuess": "Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)"
+  },
+  {
+    "ip": "192.168.1.232",
+    "mac": null,
+    "hostname": null,
+    "os": null,
+    "manufacturer": null,
+    "model": null,
+    "usage": null,
+    "lastSeen": "2025-11-04T22:21:30.834Z",
+    "sources": {},
+    "services": [],
+    "extra": {
+      "nmap": {
+        "raw": "Nmap scan report for 192.168.1.232\nHost is up (0.000082s latency).\nAll 50 scanned ports on 192.168.1.232 are in ignored states.\nNot shown: 50 closed tcp ports (reset)\nToo many fingerprints match this host to give specific OS details\nNetwork Distance: 0 hops\n\nOS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .\nNmap done: 256 IP addresses (16 hosts up) scanned in 66.04 seconds\n",
+        "hostStatus": "Host is up (0.000082s latency).",
+        "networkDistance": "0 hops"
+      }
+    }
+  }
+]

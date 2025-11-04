@@ -9,7 +9,9 @@ const formatDurationSeconds = (start) => {
 };
 
 const ScanProgress = ({ stats }) => {
-  const { scannersTotal, scannersCompleted, totalDevices, startedAt, lastUpdate } = stats;
+  const { scannersTotal, scannersCompleted, totalDevices, startedAt, lastUpdate, cycle } = stats;
+  const elapsedSeconds = startedAt ? Math.max(0, (Date.now() - startedAt.getTime()) / 1000) : 0;
+  const devicesPerSecond = elapsedSeconds > 0 ? (totalDevices / elapsedSeconds).toFixed(2) : '0.00';
 
   return createElement(
     Box,
@@ -30,6 +32,8 @@ const ScanProgress = ({ stats }) => {
       { justifyContent: 'space-between' },
       createElement(Text, null, `Devices found: ${totalDevices}`),
       createElement(Text, null, `Elapsed: ${formatDurationSeconds(startedAt)}`),
+      createElement(Text, null, `Speed: ${devicesPerSecond}/s`),
+      createElement(Text, null, `Cycle: ${cycle || 1}`),
       createElement(Text, null, `Last update: ${lastUpdate ? lastUpdate.toLocaleTimeString() : 'pending'}`)
     )
   );

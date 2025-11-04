@@ -4,7 +4,8 @@
     "passive": false,
     "watch": false,
     "timeout": 5000,
-    "refreshInterval": 15000
+    "refreshInterval": 15000,
+    "hideUnknownDevices": false
   },
   "ui": {
     "showStats": true,
@@ -21,5 +22,19 @@
     "arp": "arp",
     "arpScan": "arp-scan",
     "ping": "ping"
+  },
+  "nmap": {
+    "enableOsScan": true,
+    "versionIntensity": 3,
+    "topPorts": 50,
+    "scripts": [
+      "broadcast-dhcp-discover",
+      "broadcast-wpad-discover"
+    ]
+  },
+  "passive": {
+    "interface": null,
+    "captureDuration": 12000,
+    "mdns": true
   }
 }

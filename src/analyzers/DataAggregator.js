@@ -21,16 +21,27 @@ export default class DataAggregator {
       existing.sources.add(metadata.source);
     }
 
-    if (!existing.manufacturer && this.manufacturerResolver) {
-      existing.manufacturer = this.manufacturerResolver.lookup(existing.mac);
+    const context = { ...existing, ...partialDevice };
+
+    if (this.manufacturerResolver) {
+      const vendor = this.manufacturerResolver.lookup(existing.mac || partialDevice.mac);
+      if (vendor) {
+        existing.manufacturer = vendor;
+      }
     }
 
-    if (!existing.os && this.osDetector) {
-      existing.os = this.osDetector.detect(partialDevice);
+    if (this.osDetector) {
+      const detectedOs = this.osDetector.detect(context);
+      if (detectedOs) {
+        existing.os = detectedOs;
+      }
     }
 
-    if (!existing.usage && this.usageInferrer) {
-      existing.usage = this.usageInferrer.infer(partialDevice);
+    if (this.usageInferrer) {
+      const usage = this.usageInferrer.infer(context);
+      if (usage) {
+        existing.usage = usage;
+      }
     }
 
     this.devices.set(key, existing);
