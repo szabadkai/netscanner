@@ -1,0 +1,51 @@
+{
+  "name": "netscanner",
+  "version": "1.0.0",
+  "description": "Modern animated network scanner CLI with real-time updates.",
+  "bin": "src/cli.js",
+  "pkg": {
+    "scripts": [
+      "src/**/*.js",
+      "node_modules/ink/**/*.js"
+    ],
+    "assets": [
+      "data/mac-vendors.json",
+      "config/default-config.json"
+    ],
+    "targets": [
+      "node18-linux-x64",
+      "node18-macos-x64",
+      "node18-macos-arm64",
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "build": "pkg . --compress GZip",
+    "build:linux": "pkg . --targets node18-linux-x64 --compress GZip -o dist/netscanner-linux",
+    "build:macos": "pkg . --targets node18-macos-x64,node18-macos-arm64 --compress GZip",
+    "build:win": "pkg . --targets node18-win-x64 --compress GZip -o dist/netscanner-win.exe",
+    "build:all": "npm run build"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-boxes": "^3.0.0",
+    "commander": "^11.1.0",
+    "gradient-string": "^2.0.2",
+    "ink": "^4.4.1",
+    "ink-big-text": "^2.0.0",
+    "ink-gradient": "^3.0.0",
+    "ink-spinner": "^5.0.0",
+    "ink-table": "^3.1.0",
+    "ink-text-input": "^5.0.1",
+    "nanospinner": "^1.1.0",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@yao-pkg/pkg": "^5.11.5"
+  }
+}

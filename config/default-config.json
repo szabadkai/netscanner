@@ -1,0 +1,25 @@
+{
+  "scan": {
+    "defaultRange": "192.168.1.0/24",
+    "passive": false,
+    "watch": false,
+    "timeout": 5000,
+    "refreshInterval": 15000
+  },
+  "ui": {
+    "showStats": true,
+    "showDeviceCards": true,
+    "theme": "netwave"
+  },
+  "export": {
+    "defaultFormat": "json",
+    "defaultPath": "devices.json"
+  },
+  "tools": {
+    "nmap": "nmap",
+    "tcpdump": "tcpdump",
+    "arp": "arp",
+    "arpScan": "arp-scan",
+    "ping": "ping"
+  }
+}
